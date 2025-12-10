@@ -1,0 +1,102 @@
+{
+  "blog": [
+    {
+      "id": "20",
+      "title": "Introduction to AWS Lambda",
+      "content": "AWS Lambda allows you to run code without provisioning or managing servers. This blog introduces Lambda functions, their use cases, and how to get started.",
+      "tags": "AWS, Lambda, Cloud, Serverless",
+      "timestamp": "2024-12-16T12:30:00Z"
+    },
+    {
+      "id": "21",
+      "title": "CSS Grid vs Flexbox",
+      "content": "In this blog, we compare two powerful layout systems in CSS: Grid and Flexbox. Understand when to use each for responsive design and layout flexibility.",
+      "tags": "CSS, Frontend, Web Design, Grid, Flexbox",
+      "timestamp": "2024-12-15T16:00:00Z"
+    },
+    {
+      "id": "22",
+      "title": "Building a RESTful API with Node.js",
+      "content": "Learn how to build a simple RESTful API using Node.js and Express. This blog will guide you through setting up routes, handling requests, and connecting to a database.",
+      "tags": "Node.js, Express, Backend",
+      "timestamp": "2024-12-14T08:00:00Z"
+    },
+    {
+      "id": "23",
+      "title": "Exploring Kendo UI for React",
+      "content": "Kendo UI is a powerful tool for creating beautiful and functional UI components. This blog explores its integration with React for building interactive UIs.",
+      "tags": "React, UI, Kendo UI ,UX",
+      "timestamp": "2024-12-13T11:30:00Z"
+    },
+    {
+      "id": "24",
+      "title": "Vue.js vs React: A Detailed Comparison",
+      "content": "In this blog, we compare Vue.js and React, two popular JavaScript frameworks. We will cover their strengths, weaknesses, and use cases for modern web development.",
+      "tags": "Vue.js, React, JavaScript, Frontend",
+      "timestamp": "2024-12-12T09:00:00Z"
+    },
+    {
+      "id": "25",
+      "title": "Introduction to GraphQL",
+      "content": "GraphQL is a query language for your API. In this blog, we explore the basics of GraphQL, its benefits over REST, and how to implement it in a React project.",
+      "tags": "GraphQL, API, Frontend, React",
+      "timestamp": "2024-12-11T15:30:00Z"
+    },
+    {
+      "id": "26",
+      "title": "Building a To-Do App with React and Firebase",
+      "content": "This blog walks you through the process of building a simple to-do application using React and Firebase for data storage and authentication.",
+      "tags": "React, Firebase, Frontend",
+      "timestamp": "2024-12-10T10:15:00Z"
+    },
+    {
+      "id": "27",
+      "title": "JavaScript ES6 Features You Should Know",
+      "content": "JavaScript ES6 introduced many new features to improve the language. Learn about arrow functions, destructuring, template literals, and more.",
+      "tags": "JavaScript, ES6, Frontend, UI",
+      "timestamp": "2024-12-09T14:45:00Z"
+    },
+    {
+      "id": "32",
+      "title": "The Evolution of Web Development",
+      "content": "Web development has undergone a massive transformation over the past few decades. From the early days of static HTML pages with minimal interactivity to the current era of dynamic, responsive, and highly interactive web applications, the journey has been nothing short of revolutionary. The advent of CSS brought design to the forefront, enabling developers to craft visually appealing layouts. JavaScript's evolution, from simple DOM manipulation to modern frameworks like React, Angular, and Vue.js, has enabled developers to create complex user interfaces efficiently. On the backend, technologies such as Node.js and Express have empowered developers to build scalable and high-performance APIs. This transformation has also been fueled by cloud computing and serverless architectures, enabling rapid deployment and scaling of web applications. As we move forward, web development continues to evolve with new standards like WebAssembly, progressive web apps, and AI-driven development tools, making it essential for developers to stay updated with the latest trends.",
+      "tags": "Web Development, React, Frontend",
+      "timestamp": "2024-12-24 08:42:48"
+    },
+    {
+      "id": "33",
+      "title": "The Evolution of Web Development",
+      "content": "Web development has undergone a massive transformation over the past few decades. From the early days of static HTML pages with minimal interactivity to the current era of dynamic, responsive, and highly interactive web applications, the journey has been nothing short of revolutionary. The advent of CSS brought design to the forefront, enabling developers to craft visually appealing layouts. JavaScript's evolution, from simple DOM manipulation to modern frameworks like React, Angular, and Vue.js, has enabled developers to create complex user interfaces efficiently. On the backend, technologies such as Node.js and Express have empowered developers to build scalable and high-performance APIs. This transformation has also been fueled by cloud computing and serverless architectures, enabling rapid deployment and scaling of web applications. As we move forward, web development continues to evolve with new standards like WebAssembly, progressive web apps, and AI-driven development tools, making it essential for developers to stay updated with the latest trends. Moreover, modern tools and libraries simplify the development process, allowing developers to focus on user experience and performance optimization.",
+      "tags": "Web Development, React, Frontend",
+      "timestamp": "2024-12-24 08:44:42"
+    },
+    {
+      "id": "34",
+      "title": "Understanding TypeScript: A Beginner’s Guide",
+      "content": "TypeScript has become one of the most popular programming languages for building large-scale applications, thanks to its ability to enhance JavaScript with static typing and robust tools. Unlike JavaScript, where errors often appear at runtime, TypeScript allows developers to catch issues early in the development process through type annotations and compile-time checks. This leads to fewer bugs, better documentation, and easier collaboration in team projects. The language introduces interfaces, type aliases, and advanced features like generics, making it easier to build reusable components. Furthermore, TypeScript integrates seamlessly with popular frameworks like React, Angular, and Vue, providing enhanced type safety. This blog covers key concepts, practical examples, and best practices to help you harness the full potential of TypeScript. By mastering TypeScript, developers can create scalable, maintainable, and error-free applications.",
+      "tags": "TypeScript, JavaScript, Programming",
+      "timestamp": "2024-12-24 08:44:42"
+    },
+    {
+      "id": "35",
+      "title": "Building Scalable APIs with Node.js and Express",
+      "content": "APIs serve as the communication bridge between various components of modern web applications, and building them efficiently is crucial for scalability. Node.js, known for its event-driven architecture and non-blocking I/O model, combined with the simplicity of Express.js, has become a preferred choice for developers. This blog delves into the fundamentals of creating APIs, including setting up a basic Express server, understanding middleware, and implementing RESTful endpoints. Additional topics include security best practices like input validation, JWT authentication, and rate limiting to protect against abuse. Moreover, we discuss optimization techniques such as query caching and load balancing to enhance API performance. By the end, readers will understand how to design, document, and deploy robust APIs capable of handling millions of requests efficiently.",
+      "tags": "Node.js, Express, API Development",
+      "timestamp": "2024-12-24 08:44:42"
+    },
+    {
+      "id": "37",
+      "title": "The Importance of Responsive Design in Modern Web Applications",
+      "content": "With the rise of mobile devices, responsive design has become a necessity rather than an option. This blog explores the principles of responsive web design, including fluid grids, flexible images, and media queries. We also discuss how modern frameworks like Bootstrap, Tailwind CSS, and Material-UI streamline the process of building responsive layouts. Examples are provided to demonstrate techniques such as creating mobile-first designs, implementing breakpoints, and optimizing for performance. Whether you are a seasoned developer or a beginner, this blog will equip you with the knowledge to create web applications that deliver a seamless user experience across all devices.",
+      "tags": "Responsive Design, Web Design, CSS",
+      "timestamp": "2024-12-24 08:44:42"
+    },
+    {
+      "id": "38",
+      "title": "Mastering CSS Grid and Flexbox",
+      "content": "CSS Grid and Flexbox are two powerful layout systems that have revolutionized the way developers create web layouts. This blog dives deep into the capabilities of these tools, offering detailed explanations of their properties and how they differ. Through practical examples, we demonstrate how to build complex grid-based designs and align items perfectly with Flexbox. Learn about advanced features like grid areas, template rows, and the alignment capabilities of Flexbox. By mastering these tools, developers can create responsive, accessible, and visually stunning layouts with ease.",
+      "tags": "CSS, Grid, Flexbox",
+      "timestamp": "2024-12-24 08:44:42"
+    }
+  ]
+}
